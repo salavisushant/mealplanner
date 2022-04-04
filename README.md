@@ -1,7 +1,7 @@
 # Meal planner app using third party APIs.
 
 ## Tech Stack used for application
-* ReactJs, HTMl, CSS and JavaScript
+* ReactJs, HTML, CSS and JavaScript
 * spoonacular APIs 
 * Ant Design for pixel perfect design.
 
