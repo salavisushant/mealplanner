@@ -1,4 +1,4 @@
-# Meal planner app using third party APIs.
+# Meal planner App.
 
 ## Tech Stack used for application
 * ReactJs, HTML, CSS and JavaScript
